@@ -8,3 +8,4 @@ mkdir img
 mkdir css
 mkdir js
 echo "Directories created!"
+sudo ﻿ln -s /home/box/web/etc/nginx.conf  /etc/nginx/sites-enabled/test.conf
